@@ -1,0 +1,3 @@
+ALTER TABLE `vapp_encounters` CHANGE `encounter_notes` `encounter_comments;`
+DROP TRIGGER IF EXISTS `update_appointment_status`;
+
