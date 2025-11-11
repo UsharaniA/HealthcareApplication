@@ -15,7 +15,7 @@
 2. **Clone the Repository:**
    Clone the Co-Care repository from GitHub:
    ```bash
-   git clone https://github.com/sathamneh/co-care.git
+   git clone https://github.com//co-care.git
    ```
 
 3. **Create/Restore the Database:**
